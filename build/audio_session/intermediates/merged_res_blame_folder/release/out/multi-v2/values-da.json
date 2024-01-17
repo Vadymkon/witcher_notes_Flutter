@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\merged_res\\release\\values-da\\values-da.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\96face310f16d3f433c5c5e98535ad1e\\transformed\\core-1.6.0\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "614",
+                        "endColumns": "100",
+                        "endOffsets": "710"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\88dcfd328d331556ad1a48ad0570c1ad\\transformed\\jetified-media2-session-1.2.1\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,160,264,360,484",
+                        "endColumns": "104,103,95,123,129",
+                        "endOffsets": "155,259,355,479,609"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-da\\values-da.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\96face310f16d3f433c5c5e98535ad1e\\transformed\\core-1.6.0\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "614",
+                        "endColumns": "100",
+                        "endOffsets": "710"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\88dcfd328d331556ad1a48ad0570c1ad\\transformed\\jetified-media2-session-1.2.1\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,160,264,360,484",
+                        "endColumns": "104,103,95,123,129",
+                        "endOffsets": "155,259,355,479,609"
+                    }
+                }
+            ]
+        }
+    ]
+}

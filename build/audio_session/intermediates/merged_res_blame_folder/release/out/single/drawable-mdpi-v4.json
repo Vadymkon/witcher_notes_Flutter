@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\media_session_service_notification_ic_skip_to_previous.png",
+        "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\88dcfd328d331556ad1a48ad0570c1ad\\transformed\\jetified-media2-session-1.2.1\\res\\drawable-mdpi-v4\\media_session_service_notification_ic_skip_to_previous.png"
+    },
+    {
+        "merged": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\media_session_service_notification_ic_skip_to_next.png",
+        "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\88dcfd328d331556ad1a48ad0570c1ad\\transformed\\jetified-media2-session-1.2.1\\res\\drawable-mdpi-v4\\media_session_service_notification_ic_skip_to_next.png"
+    },
+    {
+        "merged": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\media_session_service_notification_ic_play.png",
+        "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\88dcfd328d331556ad1a48ad0570c1ad\\transformed\\jetified-media2-session-1.2.1\\res\\drawable-mdpi-v4\\media_session_service_notification_ic_play.png"
+    },
+    {
+        "merged": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\media_session_service_notification_ic_music_note.png",
+        "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\88dcfd328d331556ad1a48ad0570c1ad\\transformed\\jetified-media2-session-1.2.1\\res\\drawable-mdpi-v4\\media_session_service_notification_ic_music_note.png"
+    },
+    {
+        "merged": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\96face310f16d3f433c5c5e98535ad1e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\media_session_service_notification_ic_pause.png",
+        "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\88dcfd328d331556ad1a48ad0570c1ad\\transformed\\jetified-media2-session-1.2.1\\res\\drawable-mdpi-v4\\media_session_service_notification_ic_pause.png"
+    },
+    {
+        "merged": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\96face310f16d3f433c5c5e98535ad1e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\96face310f16d3f433c5c5e98535ad1e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\96face310f16d3f433c5c5e98535ad1e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\vadymkon\\Kaiters\\apps\\WitcherNotes\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\vadymkon\\.gradle\\caches\\transforms-3\\96face310f16d3f433c5c5e98535ad1e\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    }
+]
